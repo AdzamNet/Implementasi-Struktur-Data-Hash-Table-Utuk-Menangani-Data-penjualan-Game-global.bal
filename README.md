@@ -1,4 +1,4 @@
-# UAS Struktur Data: Aplikasi Pencarian Game (Hash Table) 
+# UAS Struktur Data: Aplikasi Pencarian Game (Hash Table) 🎮
 
 Repository ini berisi codingan untuk **Ujian Akhir Semester (UAS)** mata kuliah Pengantar Algoritma dan Struktur Data.
 
@@ -6,7 +6,7 @@ Intinya, ini adalah program Python buat **mencari dan mengelola data penjualan g
 
 ---
 
-##  Apa Saja Fiturnya?
+## 🔥 Apa Saja Fiturnya?
 
 1.  **Cari Game Cepat**: Bisa cari game berdasarkan **Judul**, **Genre**, atau **Publisher** (ketik sebagian kata juga bisa ketemu).
 2.  **Top 10 Terlaris**: Bisa langsung lihat urutan 10 game dengan penjualan tertinggi di dunia.
@@ -20,7 +20,7 @@ Intinya, ini adalah program Python buat **mencari dan mengelola data penjualan g
 
 * **Bahasa**: Python 3
 * **File Data**: `VideoGames_Sales.csv` (Isinya data penjualan game global).
-* **Codingan Utama**: `main.py`
+* **Codingan Utama**: `Game Hash Table Adzam.py`
 
 ---
 
@@ -32,7 +32,7 @@ Kamu bisa jalankan program ini pakai software favoritmu (VS Code, PyCharm, dll).
 1.  **Download** kodingan ini (klik tombol hijau **Code** > **Download ZIP**), lalu ekstrak foldernya.
 2.  Buka aplikasi **Visual Studio Code**.
 3.  Pilih menu **File** > **Open Folder...** lalu pilih folder hasil ekstrak tadi.
-4.  Buka file `main.py`.
+4.  Buka file bernama `Game Hash Table Adzam.py`.
 5.  Klik tombol **Play ▶️** di pojok kanan atas.
     *(Pastikan extension Python di VS Code sudah terinstall ya!)*
 
@@ -46,12 +46,12 @@ Buat yang suka pakai command line:
     ```bash
     cd Implementasi-Struktur-Data-Hash-Table-Utuk-Menangani-Data-penjualan-Game-global.bal
     ```
-3.  Jalankan:
+3.  Jalankan (Pakai tanda kutip karena ada spasi):
     ```bash
-    python main.py
+    python "Game Hash Table Adzam.py"
     ```
 
 ---
 
-**Dibuat oleh:** Adzam
+**Dibuat oleh:** Adzam Fauzila Adzim
 *Semoga bermanfaat!*
